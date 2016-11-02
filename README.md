@@ -5,3 +5,5 @@
 ##**To run: clone root directory, run and npm install, and then the command 'react-native run-ios' the app can then be used via the simulator** 
 
 Thank you to Stephen Grider for his Udemy course 'The Complete React Native and Redux Course' which provided the guidance for the flow of the framework.
+
+*note: demo assumes user has some basic knowledge of react-native's simulator and has also installed this library*
