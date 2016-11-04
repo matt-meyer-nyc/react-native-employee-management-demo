@@ -1,4 +1,8 @@
-##This is an app that allows for an employer to sign in (or create a and account) and schedule a day to for work for an employee. There's a screen to list all employees schedule, and another screen for creating an updating the list. If they want to 'fire' (remove) an employee that option exists as well (with modal that pops up to double check if this is a wanted action). Navigation is incorporated to move from screen to screen. The app is also secure, so no other employee can manipuate the data if signing in. The schedule can can be text to a given employee. 
+##This is an app that allows for an employer to sign in (or create a and account) and schedule a day to for work for an employee. There's a screen to list all employees schedule, and another screen for creating an updating the list. If they want to 'fire' (remove) an employee that option exists as well (with modal that pops up to double check if this is a wanted action). 
+
+##React-Native-Router-Flus is used for Navigation is incorporated to move from screen to screen, and for various button functionality in header
+
+##The app is also secure, so no other employee can manipuate the data if signing in. The schedule can can be text to a given employee. 
 
 ##Of note, the login form is handled by Redux, and ReduxThunk is used to for asynchronous API authentication actions
 
